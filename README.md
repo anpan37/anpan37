@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anjan 👋
 
-<!--
-**anpan37/anpan37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer building practical, secure applications.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning **Java, HTML, CSS, JavaScript, databases, and cybersecurity**
+- 🛠️ Interested in clean interfaces, useful tools, and secure software
+- 🎯 Building projects to turn learning into real-world skills
+
+## Tech focus
+
+Java · JavaScript · HTML · CSS · SQL / Databases · Cybersecurity
+
+## Featured projects
+
+- ⏱️ [Anime Pomodoro Timer](https://github.com/anpan37/pomodoro-timer-app) — A cute, anime-themed productivity timer built with Next.js, TypeScript, and Tailwind CSS.
+- 📈 [StockPilot](https://github.com/anpan37/stockpilot) — A stock-focused web project in progress.
+
+## Currently working on
+
+Improving my development fundamentals, building portfolio projects, and learning how to create software that is both useful and secure.
